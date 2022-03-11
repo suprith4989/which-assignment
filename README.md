@@ -34,16 +34,16 @@ a. Products of specified screen size are displayed in right pane
 
 Verify if the sorting feature works as expected.
 Steps to Perform:
-a. Visit the URL
-b. Scroll down to be able to view the sorting drop down
-c. Click on it and select 'Price (low to high)' option from drop down
-d. Check if products displayed in right pane are displayed as expected
+a. Visit the URL <br/>
+b. Scroll down to be able to view the sorting drop down <br/>
+c. Click on it and select 'Price (low to high)' option from drop down <br/>
+d. Check if products displayed in right pane are displayed as expected <br/>
 
 Expected Behavior:
-a. User should be able to see the television page
+a. User should be able to see the television page <br/>
 b. Once sorting applied, televisions ranging from low to high price end should be displayed
 
-Current Behaviour:
+Current Behaviour: <br/>
 a. Televisions ranging from low to high price end are displayed
 
 ### 3. Product Review
