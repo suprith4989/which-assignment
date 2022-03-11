@@ -54,9 +54,11 @@ a. Visit the URL
 b. Click on an entry displayed without applying any filter or sorting
 
 Expected Behavior:
+<br/>
 a. Product details such as Key features, Test score, Pros and Cons should be displayed
 
 Current Behaviour:
+<br/>
 a. Product details such as Key features, Test score, Pros and Cons are displayed
 
 ## Installation and Usage
