@@ -77,3 +77,4 @@ cypress/package.json - Has all dependencies, versions and repository information
 cypress/support/index.js - Has code block to save cypress from failing from uncaught exceptions </br>
 cypress/integration/testWhich.spec.js - Has the actual test case within 'describe' and 'it' block </br>
 cypress/support/pageObjects/common.js - Has all the selectors from the web pages for ease of use for the user & to track them all in a single file </br>
+which-assignment/Screenshot 2022-03-11 at 3.36.55 PM.png - Screenshot taken when test ran successfully at my local
