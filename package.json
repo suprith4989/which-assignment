@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cypress": "^9.5.1",
+    "yarn": "^1.22.17"
+  },
+  "name": "which-assignment",
+  "description": "This is a project created solely as an assignment for organization Which?. This doesn't use any proprietary softwares.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprith4989/which-assignment.git"
+  },
+  "keywords": [
+    "which",
+    "assignment",
+    "cypress"
+  ],
+  "author": "Suprith Gangawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprith4989/which-assignment/issues"
+  },
+  "homepage": "https://github.com/suprith4989/which-assignment#readme"
+}
