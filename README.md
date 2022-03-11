@@ -15,6 +15,7 @@ Any IDE (IntelliJ, Pycharm) to view the tree structure <br/>
 ### 1. Filter Functionality (Automated in cypress/integration/testWhich.spec.js)
 
 Verify if the filter feature given in the left pane works as expected. <br/>
+
 Steps to Perform: <br/>
 a. Visit the URL <br/>
 b. Scroll down a little bit to see all filter options on basis of screen size, price, brand etc <br/>
@@ -33,6 +34,7 @@ a. Products of specified screen size are displayed in right pane
 ### 2. Sorting Functionality
 
 Verify if the sorting feature works as expected. <br/>
+
 Steps to Perform: <br/>
 a. Visit the URL <br/>
 b. Scroll down to be able to view the sorting drop down <br/>
@@ -49,6 +51,7 @@ a. Televisions ranging from low to high price end are displayed
 ### 3. Product Review
 
 Verify clicking any particular listed item and observe the behaviour <br/>
+
 Steps to Perform: <br/>
 a. Visit the URL <br/>
 b. Click on an entry displayed without applying any filter or sorting
