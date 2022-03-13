@@ -65,10 +65,14 @@ Current Behaviour:
 a. Product details such as Key features, Test score, Pros and Cons are displayed
 
 ## Installation and Usage
-1. Clone the repo using command: 'git clone <repo link>'
-2. Switch to the repo: 'cd <repo name>'
+1. Clone the repo using command: 'git clone {repo link}'
+2. Switch to the repo: 'cd {repo name}'
 3. Run the test case file: 'cypress run --spec cypress/integration/<spec file name>
-4. Observe the cypress window for test case status
+4. Or simply use the direct download option and install cypress. This will let you open the project directly in the cypress dashboard.
+5. Open the installed Cypress application
+6. Drag your project into the window or manually open it
+7. Run the test case spec file
+8. Observe the cypress window for test case status
 
 
 ## Important Files
